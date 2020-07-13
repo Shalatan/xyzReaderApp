@@ -19,6 +19,10 @@
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowContentTransitions">true</item>
+        <item name="colorPrimary">@color/darkBlueAccent</item>
+        <item name="colorPrimaryDark">@color/blueAccent</item>
+        <item name="colorAccent">@color/purpleAccent</item>
+        <item name="android:statusBarColor">@color/darkBlueAccent</item>
     </style>
 
     <style name="Theme.Bacon.Detail">

@@ -17,14 +17,14 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:collapsedTitleTextAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse"
-            app:contentScrim="#FFff00ff"
-            android:layout_gravity="left"
+            app:contentScrim="@color/purpleAccent"
+            android:layout_gravity="start"
             app:expandedTitleMarginStart="72dp"
             android:background="@drawable/gradient_background_main_activity"
             app:expandedTitleTextAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
             <ImageView
-                android:layout_marginLeft="68dp"
+                android:layout_marginStart="68dp"
                 android:layout_marginBottom="8dp"
                 android:layout_gravity="bottom"
                 app:layout_collapseMode="pin"

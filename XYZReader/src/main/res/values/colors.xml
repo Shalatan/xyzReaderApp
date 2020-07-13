@@ -23,4 +23,8 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name="blackText">#000000</color>
+
+    <color name="darkBlueAccent">#C900FFFF</color>
+    <color name="blueAccent">#FF00ffff</color>
+    <color name="purpleAccent">#FFff00ff</color>
 </resources>

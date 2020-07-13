@@ -3,17 +3,17 @@
     <item>
         <shape android:shape="rectangle">
             <gradient android:angle="90"
-                android:endColor="#FF00ffff"
-                android:startColor="#FFff00ff"
+                android:endColor="@color/blueAccent"
+                android:startColor="@color/purpleAccent"
                 android:type="linear" />
         </shape>
         <shape android:shape="rectangle">
             <gradient
                 android:centerX="50%"
                 android:centerY="50%"
-                android:endColor="#FF00ffff"
+                android:endColor="@color/blueAccent"
                 android:gradientRadius="100"
-                android:startColor="#FFff00ff"
+                android:startColor="@color/purpleAccent"
                 android:type="linear" />
         </shape>
     </item>

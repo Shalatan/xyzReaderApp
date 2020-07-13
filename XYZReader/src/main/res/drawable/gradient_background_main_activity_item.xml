@@ -5,7 +5,7 @@
             <gradient
                 android:angle="90"
                 android:endColor="#FFff00ff"
-                android:startColor="#FF00ffff"
+                android:startColor="#FFFFFF"
                 android:type="linear" />
         </shape>
         <shape android:shape="rectangle">
@@ -14,7 +14,7 @@
                 android:centerY="50%"
                 android:endColor="#FFff00ff"
                 android:gradientRadius="100"
-                android:startColor="#FF00ffff"
+                android:startColor="#FFFFFF"
                 android:type="sweep" />
         </shape>
     </item>
